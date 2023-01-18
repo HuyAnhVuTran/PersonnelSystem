@@ -4,6 +4,7 @@ This is a object-oriented program represent the personnel system of a department
 General information of the department
 • The CSD has as a community, a group of: Academics that can be Administrators, or Faculty members.
 • CSD admits Students to its programs. A Student can be a Graduate or Undergraduate.
+
 • A Grad student can work in the CSD as a TA with a faculty member.
 • The CSD stores the following information about any TA: First name, Last name, Age, Gender, Student ID, and Address
 • The CSD stores the following information about any academic, faculty or administrator: First Name, Last name, Age, Gender, Employee ID, Address and Salary.
