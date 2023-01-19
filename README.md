@@ -1,4 +1,4 @@
-# PersonnelSystem (Second year assignment)
+# Personnel System of a CS Department (Second year assignment)
 This is a object-oriented program represent the personnel system of a department.
 
 General information of the department
