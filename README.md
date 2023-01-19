@@ -1,6 +1,7 @@
 # Personnel System of a CS Department (Second year assignment)
 This is a object-oriented program represent the personnel system of a department.
 
+
 General information of the department
 
 • The CSD has as a community, a group of: Academics that can be Administrators, or Faculty members.
@@ -54,4 +55,8 @@ It is essential to know that CSD has the following restrictions:
 • Number of Grad students assigned to a Faculty as TAs: Up to a maximum of 5
 
 • Number of Undergrad students assigned to a Faculty for advising: Up to a maximum of 8
+
+
+
+
 
